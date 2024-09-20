@@ -12,6 +12,10 @@
   "dependencies": {
     "@react-three/drei": "^9.111.3",
     "@react-three/fiber": "^8.17.6",
+    "@splinetool/loader": "^1.0.54",
+    "@splinetool/r3f-spline": "^1.0.2",
+    "@splinetool/react-spline": "^4.0.0",
+    "@splinetool/runtime": "^1.9.27",
     "@types/three": "^0.167.2",
     "bootstrap": "^5.3.3",
     "firebase": "^10.13.0",
@@ -19,7 +23,8 @@
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.1",
-    "three": "^0.167.1"
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.149.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
